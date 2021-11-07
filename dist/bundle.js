@@ -1,1 +1,0 @@
-(()=>{"use strict";const n=function(n,e){return n.join(e)};document.body.appendChild(function(){const e=document.createElement("div");return e.innerHTML=n(["Hello","webpack"],""),e}())})();
